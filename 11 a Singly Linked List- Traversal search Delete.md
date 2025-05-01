@@ -19,6 +19,8 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+## Reg no:212223020020
+## Name: Pradaksha V
 class Node:
       def     init (self, data=None):
             self.data = data
@@ -50,8 +52,8 @@ list.listprint()
 ### Output:
 ![image](https://github.com/user-attachments/assets/f7547c51-0a61-45c2-93da-48fbb60de473)
 
-
-### Result: Thus, the given program is implemented and executed successfully .
+### Result:
+Thus, the given program is implemented and executed successfully .
  
 
 
