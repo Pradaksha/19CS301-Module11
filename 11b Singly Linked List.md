@@ -1,8 +1,6 @@
 ### EX: 11.b Singly Linked List (Insertion and all operation)
 
-
 ### Aim: To Write a python program to add new element at the start of the list.
-
 
 ### Algorithm:
 
@@ -20,6 +18,8 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+## Reg no:212223020020
+## Name: Pradaksha V
 class Node:
             def     __init__ (self, data):
                   self.data = data
@@ -56,9 +56,8 @@ MyList.PrintList()
 ### Output:
 ![image](https://github.com/user-attachments/assets/4dae3c02-c85a-4294-9c03-294102d7fd9c)
 
-
-
-### Result: Thus, the given program is implemented and executed successfully .
+### Result:
+Thus, the given program is implemented and executed successfully .
  
 
 
