@@ -93,6 +93,7 @@ llist.printList(llist.head)
 ```
 
 ### OUTPUT  
+![image](https://github.com/user-attachments/assets/bd38eba2-6532-4bc5-9447-e2056e51cc3b)
 
 
 ### RESULT
